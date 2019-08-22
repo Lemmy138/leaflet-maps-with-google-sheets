@@ -36,6 +36,7 @@ var constants = {
   // Table Map
   _displayTable: 'Display Table',
   _tableHeight: 'Table Height',
+  _tableWeight: 'Table Weight',  
   _tableColumns: 'Table Columns',
   _tableHeaderColor: 'Table Header Color',
   // Polyline Map Controls
